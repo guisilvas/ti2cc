@@ -14,10 +14,10 @@ public class User {
 	}
 	
 	public User(int code, String login, String password, char gender) {
-		this.codigo = codigo;
+		this.code = code;
 		this.login = login;
-		this.senha = senha;
-		this.sexo = sexo;
+		this.password = password;
+		this.gender = gender;
 	}
 
 	public int getCode) {
